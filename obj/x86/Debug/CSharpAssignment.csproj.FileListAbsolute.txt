@@ -1,0 +1,4 @@
+E:\MVS2010\CSharpAssignment\CSharpAssignment\bin\Debug\CSharpAssignment.exe
+E:\MVS2010\CSharpAssignment\CSharpAssignment\bin\Debug\CSharpAssignment.pdb
+E:\MVS2010\CSharpAssignment\CSharpAssignment\obj\x86\Debug\CSharpAssignment.exe
+E:\MVS2010\CSharpAssignment\CSharpAssignment\obj\x86\Debug\CSharpAssignment.pdb
